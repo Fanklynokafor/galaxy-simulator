@@ -1,0 +1,8 @@
+# Fortran build products
+*.o
+*.mod
+galaxy_simulator
+
+# Simulation output (generated when the model runs)
+snapshots.csv
+energy.csv
